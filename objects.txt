@@ -1,0 +1,11 @@
+schemas	t
+tables	t
+foreign tables 	t
+functions	t
+trigger functions	t
+triggers	t
+views	t
+extensions	t
+foreign data wrappers	!t
+foreign servers	!t
+foreign data tables	!t
