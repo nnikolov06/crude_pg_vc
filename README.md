@@ -28,5 +28,6 @@ Supported objects:
 **__foreign data tables__** - list only; no structure
 
 
-*vc_output_path* is under version control.
+*vc_output_path* must be under version control.
+
 *pg_sync* recursively deletes *schemas* from *vc_output_path*, dumps fresh object structures from the selected schema, commits the new changeset.
